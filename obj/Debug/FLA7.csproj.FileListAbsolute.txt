@@ -1,0 +1,15 @@
+D:\User\Jansen\Self Study\2023 - 12 - DECEMBER\C# OOP\FLA7\bin\Debug\dbData.mdf
+D:\User\Jansen\Self Study\2023 - 12 - DECEMBER\C# OOP\FLA7\bin\Debug\dbData_log.ldf
+D:\User\Jansen\Self Study\2023 - 12 - DECEMBER\C# OOP\FLA7\bin\Debug\FLA7.exe.config
+D:\User\Jansen\Self Study\2023 - 12 - DECEMBER\C# OOP\FLA7\bin\Debug\FLA7.exe
+D:\User\Jansen\Self Study\2023 - 12 - DECEMBER\C# OOP\FLA7\bin\Debug\FLA7.pdb
+D:\User\Jansen\Self Study\2023 - 12 - DECEMBER\C# OOP\FLA7\bin\Debug\Guna.UI2.dll
+D:\User\Jansen\Self Study\2023 - 12 - DECEMBER\C# OOP\FLA7\obj\Debug\FLA7.csproj.AssemblyReference.cache
+D:\User\Jansen\Self Study\2023 - 12 - DECEMBER\C# OOP\FLA7\obj\Debug\FLA7.csproj.SuggestedBindingRedirects.cache
+D:\User\Jansen\Self Study\2023 - 12 - DECEMBER\C# OOP\FLA7\obj\Debug\FLA7.Form1.resources
+D:\User\Jansen\Self Study\2023 - 12 - DECEMBER\C# OOP\FLA7\obj\Debug\FLA7.Properties.Resources.resources
+D:\User\Jansen\Self Study\2023 - 12 - DECEMBER\C# OOP\FLA7\obj\Debug\FLA7.csproj.GenerateResource.cache
+D:\User\Jansen\Self Study\2023 - 12 - DECEMBER\C# OOP\FLA7\obj\Debug\FLA7.csproj.CoreCompileInputs.cache
+D:\User\Jansen\Self Study\2023 - 12 - DECEMBER\C# OOP\FLA7\obj\Debug\FLA7.csproj.CopyComplete
+D:\User\Jansen\Self Study\2023 - 12 - DECEMBER\C# OOP\FLA7\obj\Debug\FLA7.exe
+D:\User\Jansen\Self Study\2023 - 12 - DECEMBER\C# OOP\FLA7\obj\Debug\FLA7.pdb
